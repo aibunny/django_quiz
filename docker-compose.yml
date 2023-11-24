@@ -5,5 +5,5 @@ services:
     build:
       context: .
     ports:
-      - "8000:8000"
+      - "2000:8000"
     
