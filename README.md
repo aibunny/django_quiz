@@ -8,14 +8,14 @@ This is the live link to test the project [LIVE](https://test.theaibunny.com/sea
 
 ## Table of Contents
 
-1. [Django Project Setup](##1)
-2. [Configuring PostgreSQL](##2)
-3. [Creating a Django Model](##3)
-4. [Form Views, Templates and URLS](##4)
-5. [Testing](##5)
-6. [Dockerizing the application](##6)
-7. [Deploying/Serving the app](##7)
-8. [Running Locally](##8)
+1. [Django Project Setup](https://github.com/aibunny/django_quiz#1-django-project-setup)
+2. [Configuring PostgreSQL](https://github.com/aibunny/django_quiz#2-configuring-postgresql)
+3. [Creating a Django Model](https://github.com/aibunny/django_quiz#3-creating-django-models)
+4. [Form Views, Templates and URLS](https://github.com/aibunny/django_quiz#4-forms-views-templates-and-urls)
+5. [Testing](https://github.com/aibunny/django_quiz#5-testing)
+6. [Dockerizing the application](https://github.com/aibunny/django_quiz#6-dockerizing-the-app)
+7. [Deploying/Serving the app](https://github.com/aibunny/django_quiz#7-deployingserving-using-nginx)
+8. [Running Locally](https://github.com/aibunny/django_quiz#8-run-locally)
 
 ## 1. Django Project Setup
 
